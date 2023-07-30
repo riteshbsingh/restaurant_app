@@ -18,7 +18,7 @@ git clone https://github.com/riteshbsingh/restaurant_app.git
 cd restaurant_app
 ```
 
-### 3. Install the dependencies for both the frontend and backend:
+### 3. Install the dependencies for both the frontend and backend and Run:
 
 * Install backend dependencies:
 ```bash
