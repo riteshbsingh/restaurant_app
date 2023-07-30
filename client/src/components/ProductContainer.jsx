@@ -13,7 +13,7 @@ const ProductContainer = () => {
 
   useEffect(() => {
     setIsLoading(true)
-    fetch('http://localhost:5000/menu')
+    fetch('https://restaurant-app-q5sm.onrender.com/menu')
       .then((response) => response.json())
       .then((data) => {
         setMenu(data.data)
